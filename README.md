@@ -1,4 +1,4 @@
-## Deployed At
+## Deployed at
 
 https://cool-movies.vercel.app/
 
