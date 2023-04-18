@@ -1,0 +1,16 @@
+export const theme = {
+  background: 'linear-gradient(180deg, #314560 0%, #061223 100%)',
+  primaryLight: '#F5F8FB',
+  primary: '#79A2CB',
+  primaryDark: '#30679F',
+  primaryDarker: '#314560',
+  primaryDarkest: '#061324',
+  secondary: '#BFFF80',
+  secondaryLighter: '#A5FF4D',
+  overlay: 'rgba(48, 103, 159, 0.8)',
+  overlayDark: 'rgba(6, 19, 36, 0.75)',
+  shadowLevel1: '0px 2px 4px rgba(0, 0, 0, 0.25)',
+  shadowLevel2: '0px 4px 8px rgba(0, 0, 0, 0.50)',
+  shadowLevel3: '0px 8px 16px rgba(0, 0, 0, 0.75)',
+  shadowLevel4: '0px 16px 32px rgba(0, 0, 0, 0.80)',
+};
